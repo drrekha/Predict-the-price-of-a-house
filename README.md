@@ -5,7 +5,7 @@ Using more than one model, predict the price of the house using the given datase
 accuracy of the models along with the drawbacks of each technique's assumptions before recommending
 the final prediction model.
 
-(https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/drrekha/Predict-the-price-of-a-house/FINALhousesales.ipynb)
+[(https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/drrekha/Predict-the-price-of-a-house/FINALhousesales.ipynb)
 
 
 
